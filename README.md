@@ -86,3 +86,25 @@ b. Rate for all the others were 29.66%
 
 Based on the above results and graphs, I can make the hypothesis that the drivers who accepted the bar coupons were (1) younger in age, (2) no kids, (3) earned more money, and (4) visited the bars more often.
 
+
+**Independent Investigation - Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons.**
+
+A similar analysis was performed for people whose coupon pertained to a Coffee House.
+
+1. Percentage of coffee house coupons that were accepted was 49.633%
+2. Rate for those who went to a coffee house 3 or fewer times a month was 44.59% and the rate for those who went to a coffee house 3 or more times a month was 67.26%
+
+A plot was generated using the CoffeeHouse visit as the x axis and sum of Y as the y axis (as shown below)
+
+![newplot](https://github.com/malayghosehajra/Will-the-Customer-Accept-the-Coupon/assets/148172622/742ab304-3550-4a89-8b01-742016633867)
+
+
+Additionally, the rate for people with age over 25 and more than once a month coffee house visit was found to be 63.96%. Additionally, the rate for everyone else was found to be 51.37%
+
+
+Lastly a plot was generated to show the variation of coffee house visits with different age brackets.
+
+![newplot](https://github.com/malayghosehajra/Will-the-Customer-Accept-the-Coupon/assets/148172622/fe74711a-53b7-48bb-be75-2cdbb8f9cc84)
+
+
+
