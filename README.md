@@ -87,6 +87,8 @@ b. Rate for all the others were 29.66%
 Based on the above results and graphs, I can make the hypothesis that the drivers who accepted the bar coupons were (1) younger in age, (2) no kids, (3) earned more money, and (4) visited the bars more often.
 
 
+
+
 **Independent Investigation - Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons.**
 
 A similar analysis was performed for people whose coupon pertained to a Coffee House.
